@@ -1,0 +1,22 @@
+.contentwrap {
+    position: relative;
+    padding: 120px 20%;
+    z-index: 5;
+    background: white;
+    text-align: center;
+  }
+  
+  .photowrap {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .photowrap img { width: 100%; }  
+
+#particles{
+    height: 700px;
+}   
+   .box{
+   min-height:500px ;  
+   }
